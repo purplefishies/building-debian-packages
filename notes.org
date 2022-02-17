@@ -1,0 +1,7 @@
+* Getting started with debmake
+
+
+* Notes for org mode and debmake
+  :PROPERTIES:
+  :CAPTURED: <2022-02-17 09:56>
+  :END:
